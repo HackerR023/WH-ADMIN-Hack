@@ -46,7 +46,12 @@
 
 Simply clone the repository and run the main file:
 ```sh
-# Install Git First.
+pkg installpython
+
+pkg install wget
+pkg install curl
+pkg install git
+# Install Git .
 git clone https://github.com/HackerR023/WH-ADMIN-Hack 
 # Open Git Cloned File
 cd WH-ADMIN-Hack
